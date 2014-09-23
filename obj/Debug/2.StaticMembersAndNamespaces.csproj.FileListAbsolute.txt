@@ -1,0 +1,6 @@
+E:\Visual Studio\OOP\2.Static members and namespaces\2.StaticMembersAndNamespaces\bin\Debug\2.StaticMembersAndNamespaces.exe.config
+E:\Visual Studio\OOP\2.Static members and namespaces\2.StaticMembersAndNamespaces\obj\Debug\2.StaticMembersAndNamespaces.csprojResolveAssemblyReference.cache
+E:\Visual Studio\OOP\2.Static members and namespaces\2.StaticMembersAndNamespaces\bin\Debug\2.StaticMembersAndNamespaces.exe
+E:\Visual Studio\OOP\2.Static members and namespaces\2.StaticMembersAndNamespaces\bin\Debug\2.StaticMembersAndNamespaces.pdb
+E:\Visual Studio\OOP\2.Static members and namespaces\2.StaticMembersAndNamespaces\obj\Debug\2.StaticMembersAndNamespaces.exe
+E:\Visual Studio\OOP\2.Static members and namespaces\2.StaticMembersAndNamespaces\obj\Debug\2.StaticMembersAndNamespaces.pdb
